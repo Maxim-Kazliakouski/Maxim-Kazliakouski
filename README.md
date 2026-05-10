@@ -14,10 +14,10 @@
 <h3 class="heading-element" dir="auto">🤝 Social networks:</h3>
 <div id="user-content-badges" dir="auto">
     <a href="https://www.linkedin.com/in/maxim-kazliakouski/" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/c457924542427ab09c6897a501aa47b873e080ee92c167a256923fc2bd0e4c41/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" width="40" height="40" alt="linkedin" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" style="max-width: 100%;">
+      <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" width="40" height="40" alt="linkedin" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" style="max-width: 100%;">
     </a>
     <a href="https://t.me/max_kazliakouski" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
+      <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/telegram.svg" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
     </a>
   </div>
 <hr></hr>
